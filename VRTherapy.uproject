@@ -24,6 +24,18 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
+			"Name": "ProceduralVegetationEditor",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
